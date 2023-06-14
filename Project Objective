@@ -1,0 +1,25 @@
+ Business Problem:
+
+Oil price may fluctuate time to time based on more factors technical economical and natural as well as political so the forecasting may not be influenced by these some unexpected scenarios like Geopolitical issues (e.g.: War and Oil price Cap).
+
+Objective:
+
+Oil is a product that goes completely in a different direction for a single market event as the oil prices are rarely based on real-time data, instead, it is driven by externalities making our attempt to forecast it even more challenging
+As the economy will be highly affected by oil prices our model will help to understand the pattern in prices to help the customers and businesses to make smart decisions.
+
+Factors Affecting Oil price:
+
+Changes in the value of the U.S. dollar
+
+Changes in the policies of the Organization of Petroleum Exporting Countries (OPEC)
+
+Changes in the levels of oil production and inventory
+
+The health of the global economy , Population ,War, Natural calamities, Other unpredictable factors such as Medical emergencies like COVID-19 etc.
+
+The implementation (or collapse) of international agreements
+
+
+
+reference link: https://www.investopedia.com/articles/investing/102215/4-reasons-why-price-crude-oil-dropped.asp
+Dataset source: Kaggle
